@@ -7,7 +7,7 @@ import java.util.TreeSet;
  * @author ChekhovAI
  */
 abstract public class MediaDevice {
-    /** Carrier that war inserted in this device */
+    /** Carrier that was inserted in this device */
     private Carrier insertedCarrier = null;
     /** Model of device */
     private final String model;
