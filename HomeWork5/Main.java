@@ -40,7 +40,7 @@ public class Main {
 
         // Main code
         // Making ExecutorService to control pool of thread
-        /* We can use number of cores for setting threads pool size:
+        /* We could use number of cores for setting threads pool size:
         int threads = Runtime.getRuntime().availableProcessors();
         ExecutorService service = Executors.newFixedThreadPool(threads);
          */
