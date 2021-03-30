@@ -18,3 +18,6 @@
 
 ### Домашняя работа №4 -> HomeWork4
 - Файл с main() функцией -> HomeWork4\HomeWork4.java
+
+### Домашняя работа №5 -> HomeWork5
+- Файл с main() функцией -> HomeWork5\Main.java
